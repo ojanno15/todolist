@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{269:function(t,n,e){"use strict";e.r(n);var l={props:{List:e(133).default}},o=e(44),component=Object(o.a)(l,(function(){var t=this.$createElement,n=this._self._c||t;return n("div",[n("List")],1)}),[],!1,null,null,null);n.default=component.exports;installComponents(component,{List:e(133).default})}}]);
